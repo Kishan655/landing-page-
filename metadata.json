@@ -1,0 +1,6 @@
+{
+  "name": "Task 1 (Easy) – Responsive Landing Page",
+  "description": "A modern, fully responsive technology landing page built for the Web Development Internship project featuring dynamic workflow cards, interactive skills showcase, device preview simulator, and validated contact form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
